@@ -1,0 +1,38 @@
+<annotation>
+	<folder>BulkResizePhotos</folder>
+	<filename>osos54.jpg</filename>
+	<path>C:\Users\yeslly mestizo\Documents\SANTOTO\VII\Deep Learning\Animales\Animalitos\BulkResizePhotos\osos54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>4</ymin>
+			<xmax>318</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>96</ymin>
+			<xmax>431</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

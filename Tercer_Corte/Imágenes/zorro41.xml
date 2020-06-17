@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BulkResizePhotos</folder>
+	<filename>zorro41.jpg</filename>
+	<path>C:\Users\yeslly mestizo\Documents\SANTOTO\VII\Deep Learning\Animales\Animalitos\BulkResizePhotos\zorro41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>243</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>35</ymin>
+			<xmax>233</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

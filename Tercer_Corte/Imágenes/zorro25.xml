@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>zorro25.jpg</filename>
+	<path>G:\Mi unidad\deteccion_objetos\imagenes\zorro25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>481</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>89</ymin>
+			<xmax>445</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>133</ymin>
+			<xmax>283</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

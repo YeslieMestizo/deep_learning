@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagenes</folder>
+	<filename>lobo7.jpg</filename>
+	<path>G:\Mi unidad\deteccion_objetos\imagenes\lobo7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wolf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>20</ymin>
+			<xmax>263</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

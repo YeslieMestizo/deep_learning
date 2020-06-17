@@ -1,0 +1,3 @@
+bear
+fox
+wolf
